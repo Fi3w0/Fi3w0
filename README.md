@@ -54,6 +54,37 @@ Rust     █░░░░░░░░░░░░░  just started
 
 ## Projects
 
+### Homelab Infrastructure *(private)*
+Production homelab running multiple self-hosted services, fully containerized and managed through Docker Compose with a structured monorepo layout.
+
+**Services**
+- Fabric Minecraft server with RCON enabled and a Discord bridge
+- Custom Discord bot for general server management
+- Dedicated Minecraft RCON bot — kick, ban, pardon, whitelist, broadcasts, and server restarts via slash commands
+- Traefik reverse proxy handling routing and SSL for all services
+- Glances system monitoring dashboard
+- Portainer for container management
+
+**CI/CD Pipelines**
+- `validate` — Docker Compose syntax check and build on every push
+- `deploy` — manual service deployment via workflow dispatch
+- `backup` — daily config backup as artifact, release on manual trigger
+- `build` — release preparation on version tags
+
+```
+Server/
+├── discord/
+│   ├── discord-bot/
+│   └── minecraft-bot/
+├── mc/
+│   └── fabric-vanilla/
+├── proxy/
+│   └── traefik/
+└── web/
+    ├── glances/
+    └── portainer/
+```
+
 ### [Fi3w0-Hyprland](https://github.com/Fi3w0/Fi3w0-Hyprland)
 My personal Hyprland dotfiles for Arch Linux on the ThinkPad T14. My main daily environment - configured and maintained for a terminal-first workflow.
 
