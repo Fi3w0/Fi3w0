@@ -6,13 +6,11 @@
 
 ## About
 
-17-year-old DevOps student - enrolled in a course, but most of what I know came from running real infrastructure, not reading about it.
+17-year-old DevOps student — enrolled in a course, but most of what I know came from running real infrastructure, not reading about it.
 
-I run production systems from my bedroom. Docker stacks, Arch Linux as a daily driver, automated backup pipelines, game servers with real users depending on uptime. I've configured networking, tuned performance, and debugged things at 2am because something broke and someone was counting on it being fixed. That's not a lab environment - that's production experience.
+I run production systems. Docker stacks, Arch Linux as a daily driver, automated backup pipelines, game servers with real users depending on uptime. I've configured networking, tuned performance, and debugged things at 2am because something broke and someone was counting on it being fixed.
 
-I'm not a traditional programmer, but I use AI agents as a deliberate tool: integrating them into workflows, building with them, learning from them — not just prompting for answers. The problems I choose to tackle tend to go well beyond what's expected at my level, and I solve most of them independently.
-
-I'm 17, I lack formal experience, and I know it. I'll outwork that gap. What I bring right now is someone already operating infrastructure, managing real users, and building things that actually run.
+I'm not a traditional programmer, but I use AI agents as a deliberate tool: integrating them into workflows, building with them, learning from them — not just prompting for answers.
 
 **Pronouns:** he/him/sudo  
 **Username:** fi3w0 (reads as fi·three·wo)
@@ -27,13 +25,13 @@ I'm 17, I lack formal experience, and I know it. I'll outwork that gap. What I b
 | **Core Skills** | Linux CLI · systemd · Bash scripting |
 | **Containers** | Docker · Docker Compose |
 | **IaC / Cloud** | Terraform · Ansible · AWS · Azure *(early stages)* |
-| **Next Up** | Kubernetes · Rust |
+| **Next Up** | Kubernetes · Rust · Go |
 
 > Terraform, Ansible, AWS, and Azure I'm not so good with them still learning. Linux + Systemd + Docker is where I'm most comfortable.
 
 **Daily Machines**
 - ThinkPad T14 Gen 1 — Secondary Linux workstation
-- MacBook Air M4 — Primary MacOs workstation
+- MacBook Air M4 — Primary macOS workstation
 
 Comfortable in any text editor — Nano, Vim, VS Code, whatever the job needs. Most of my work happens over SSH.
 
@@ -41,13 +39,14 @@ Comfortable in any text editor — Nano, Vim, VS Code, whatever the job needs. M
 
 ## Code & Scripting
 
-Bash and Systemd is my go-to for automation. I also write Lua/Luau for game server logic and modding, and Java when needed. Currently exploring Rust out of curiosity.
+Bash and systemd is my go-to for automation. I also write Lua/Luau and Java for game server logic and modding. Planning to pick up Rust and Go next.
 
 ```
 Bash     ████████████░░  strong
-Lua      ████████░░░░░░  solid
-Java     █████░░░░░░░░░  functional
-Rust     █░░░░░░░░░░░░░  just started
+Lua      ██████░░░░░░░░  comfortable
+Java     ██████░░░░░░░░  comfortable
+Rust     ░░░░░░░░░░░░░░  next up
+Go       ░░░░░░░░░░░░░░  next up
 ```
 
 ---
@@ -86,17 +85,17 @@ Server/
 ```
 
 ### [Fi3w0-Hyprland](https://github.com/Fi3w0/Fi3w0-Hyprland)
-My personal Hyprland dotfiles for Arch Linux on the ThinkPad T14. My main daily environment - configured and maintained for a terminal-first workflow.
+My personal Hyprland dotfiles for Arch Linux on the ThinkPad T14. My main daily environment — configured and maintained for a terminal-first workflow.
 
 ---
 
-### [Naoya-Mod](https://github.com/Fi3w0/Naoya-Mod)
-A small Minecraft mod built with the DeepSeek v3 API, featuring Projection Sorcery inspired by Naoya Zenin from Jujutsu Kaisen. A vibe-coding experiment mixing AI tooling with JJK lore.
+### [FIW Bosses](https://github.com/Fi3w0/Fiw-Bosses) *(active)*
+My most ambitious mod — a full boss framework for Fabric 1.20.1, inspired by MythicMobs, built from scratch. Define multi-phase bosses entirely through JSON: 42 abilities, phase transitions, custom loot, dialogue systems, and hot reload. No coding, no restarts — drop a config and it's live. Built primarily with Claude Code.
 
 ---
 
-### [FiwStoryMod](https://github.com/Fi3w0/FiwStoryMod) *(active)*
-My most ambitious mod - built for my SMP server. Features lore-driven items and complex custom mechanics. Still in active development, primarily using Claude Code with Sonnet 4.6.
+### [FiwStoryMod](https://github.com/Fi3w0/FiwStoryMod)
+A Frankenstein mod for my SMP — lore-driven items, custom weapons, and some systems that barely hold together. Held together with borrowed textures and stubbornness. It works, somehow.
 
 ---
 
@@ -106,7 +105,7 @@ Self-hosted Private Minecraft SMP for up to 20 players, built and maintained end
 - Automated backup systems
 - Discord bot with server management integration
 - Custom homepage
-- Custom lore and gmaeplay
+- Custom lore and gameplay
 
 ---
 
@@ -114,7 +113,7 @@ Self-hosted Private Minecraft SMP for up to 20 players, built and maintained end
 
 - Kubernetes cluster management
 - Deeper Terraform + Ansible workflows
-- Rust (early stages, mostly exploring)
+- Rust and Go *(planning to start)*
 
 ---
 
