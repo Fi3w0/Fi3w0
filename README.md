@@ -90,7 +90,7 @@ My personal Hyprland dotfiles for Arch Linux on the ThinkPad T14. My main daily 
 ---
 
 ### [FIW Bosses](https://github.com/Fi3w0/Fiw-Bosses) *(active)*
-My most ambitious mod — a full boss framework for Fabric 1.20.1, inspired by MythicMobs, built from scratch. Define multi-phase bosses entirely through JSON: 42 abilities, phase transitions, custom loot, dialogue systems, and hot reload. No coding, no restarts — drop a config and it's live. Built primarily with Claude Code.
+My most ambitious mod — a full boss framework for Fabric 1.20.1 and NeoForge 1.21.1, inspired by MythicMobs, built from scratch. Define multi-phase bosses entirely through JSON: 42 abilities, phase transitions, custom loot, dialogue systems, custom minions and hot reload. No coding, no restarts — drop a config and it's live. Built primarily with Claude Code.
 
 ---
 
