@@ -42,7 +42,8 @@
 ![GNU Nano](https://img.shields.io/badge/GNU_Nano-336791?style=for-the-badge&logo=gnu&logoColor=white)
 
 ---
-
+![Homelab and dev setup: Arch + Hyprland on T14, Ubuntu Server homelab with Docker stacks](assets/banner.png)
+---
 ## About
 
 17-year-old DevOps student — enrolled in a course, but most of what I know came from running real infrastructure, not reading about it.
@@ -84,8 +85,9 @@ Bash and systemd is my go-to for automation. I also write Lua/Luau and Java for 
 ```
 Go       ███████░░░░░░░ Intermediate
 Bash     ████████░░░░░░ Intermediate
-Java     ████░░░░░░░░░░ Basic-Intermediate
-Lua      ███░░░░░░░░░░░ Basic
+Lua      ████░░░░░░░░░░ Basic 
+Java     ██░░░░░░░░░░░░ Basic (read & modify)
+
 ```
 
 ---
