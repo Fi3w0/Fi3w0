@@ -49,7 +49,7 @@
 
 Maintaining a Docker-based homelab serving my users or me with automated backups and CI/CD pipelines. Docker stacks, Arch Linux as a daily driver, automated backup pipelines, game servers with real users depending on uptime. I've configured networking, tuned performance, and debugged things at 2am because something broke and someone was counting on it being fixed.
 
-I'm not a traditional programmer, but I use AI agents as a deliberate tool: integrating them into workflows, building with them, learning from them — not just prompting for answers. Recently started to code manually with Go and Bash.
+I think in systems more than in code, but I use AI agents as a deliberate tool: integrating them into workflows, building with them, learning from them — not just prompting for answers. Recently started to code manually with Go and Bash.
 
 **Pronouns:** he/him/sudo  
 **Username:** fi3w0 (reads as fi·three·wo)
@@ -82,10 +82,10 @@ Comfortable in any text editor — Nano, Vim, VS Code, Zed, whatever the job nee
 Bash and systemd is my go-to for automation. I also write Lua/Luau and Java for game server logic and modding. Started learning Go as secondary lang next to Bash.
 
 ```
-Go       █████░░░░░░░░░ Intermediate
+Go       ███████░░░░░░░ Intermediate
 Bash     ████████░░░░░░ Intermediate
+Java     ████░░░░░░░░░░ Basic-Intermediate
 Lua      ███░░░░░░░░░░░ Basic
-Java     ██░░░░░░░░░░░░ Basic
 ```
 
 ---
@@ -170,7 +170,6 @@ Ukrainian · Russian *(both native)* — Spanish *(native-level)* — English *(
 - Telegram: @fi3w0  
 - Discord: fi3w0  
 - GitHub: https://github.com/Fi3w0  
-- Website: https://fiwservers.lol
 
 ---
 
