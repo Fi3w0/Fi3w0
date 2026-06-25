@@ -112,16 +112,16 @@ Twelve real panels (WiFi connect, Bluetooth pairing, clipboard history, audio/MP
 ---
 
 ### [FIW Bosses](https://github.com/Fi3w0/Fiw-Bosses) *(active)*
-My most ambitious mod. A data-driven boss framework for NeoForge 1.21.1 and Fabric, inspired by MythicMobs, built from scratch. Define fully custom multi-phase bosses entirely through JSON: 42 abilities, phase transitions, custom minions, dialogue systems, custom loot, hot reload. No coding, no restarts, drop a config and run `/boss reload`. On Modrinth.
+My most ambitious mod. A data-driven boss framework for Fabric, NeoForge, and Forge, inspired by MythicMobs, built from scratch. Define fully custom multi-phase bosses entirely through JSON: **50+ abilities**, HP-threshold phases, custom minions with their own AI and movement modes, pre-fight and pre-death dialogue, custom skins and loot, and hot reload. No coding, no restarts, drop a config and run `/boss reload`. Runs across Minecraft 1.21.11 / 1.21.8 / 1.21.1 / 1.20.1. On Modrinth.
 
 ---
 
 ### [FIW Tools](https://github.com/Fi3w0/Fiw-Tools) *(active)*
-The sibling mod to Fiw Bosses. A data-driven custom-item framework, also JSON-only and fully server-side, so vanilla clients connect with no install. Define items, weapons, and armor on top of vanilla data components, with 8 player-balanced abilities. With both mods installed, bosses can drop or wear Fiw Tools items by id. On Modrinth.
+The sibling mod to Fiw Bosses. A data-driven custom-item framework, also JSON-only and fully server-side, so vanilla clients connect with no install. Define weapons, armor, food, curses, imbuements, and player abilities on top of vanilla data components: custom names, lore, attributes, enchantments above vanilla caps, active and passive effects, a curse system, and an imbuing/upgrade engine. With both mods installed, bosses can drop or wear Fiw Tools items by `toolId`. Builds for Fabric and NeoForge on 1.21.11 (plus a Fabric 26 target). On Modrinth.
 
 ---
 
-### Skyxern — [fiwservers.lol](https://fiwservers.lol)
+### FiwLand — [fiwservers.lol](https://fiwservers.lol)
 Self-hosted private Minecraft SMPs for my friends and players, built and maintained end-to-end:
 - Custom mods and plugins
 - Automated backup systems
