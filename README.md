@@ -8,7 +8,6 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Ubuntu Server](https://img.shields.io/badge/Ubuntu_Server-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 **Infrastructure & DevOps**
 
@@ -37,23 +36,15 @@
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-**Editors**
-
-![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![JetBrains](https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-![Nano](https://img.shields.io/badge/GNU_Nano-336791?style=for-the-badge&logo=gnu&logoColor=white)
-
 ---
 
-![Homelab and dev setup: Arch + TideWM on T14, Ubuntu Server homelab with Docker stacks](banner.png)
+![Homelab and dev setup: Arch on T14, Ubuntu Server homelab with Docker stacks](banner.png)
 
 ---
 
 ## 👋 About
 
-I'm Fiw. I think in systems more than in code. Linux, Docker, Traefik, backups, CI/CD, and a mini PC under my desk quietly keeping my friends' servers alive is what I actually care about. I write Bash, Go, Lua, Python, and a bit of Java by hand. For anything heavier (Rust, Swift, Kotlin, TypeScript, QML) I direct AI agents and own the design, review, and integration myself.
+I'm Fiw. I think in systems more than in code. Linux, Docker, Traefik, backups, CI/CD and much more. I write Bash, Go, Lua, Python, and a bit of Java by hand. For anything heavier (Rust, Swift, Kotlin, TypeScript, QML) I direct AI agents and own the design and structure, review, and integration myself.
 
 **Pronouns:** he/him/sudo · **Username:** fi3w0 *(fi·three·wo)*
 
@@ -64,12 +55,12 @@ I'm Fiw. I think in systems more than in code. Linux, Docker, Traefik, backups, 
 | Area | Tools |
 |---|---|
 | **OS** | Arch Linux · macOS · Ubuntu Server LTS |
-| **Infra** | Docker · Compose · Traefik · Portainer · GitHub Actions |
+| **Infra** | Docker · Compose · Traefik · GitHub Actions |
 | **By hand** | Bash · Go · Lua · Java · Python |
 | **AI-directed** | Rust · Swift · Kotlin · TypeScript · QML |
 | **Next up** | Kubernetes · Terraform · Ansible |
 
-Daily machines: MacBook Air M4 (main), dual-boot desktop for gaming/heavy loads, ThinkPad T14 running Arch + TideWM.
+Daily machines: MacBook Air M4 (main), dual-boot desktop for gaming/heavy loads, ThinkPad T14.
 
 ---
 
