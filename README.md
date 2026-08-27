@@ -68,14 +68,14 @@ Daily machines: MacBook Air M4 (main), dual-boot desktop for gaming/heavy loads,
 ## 🛠️ Projects
 
 ### Heavy Systems / R&D
-**[TideWM](https://github.com/Fi3w0/TideWM)**: A water-themed Wayland compositor in Rust on Smithay. Tiling (BSP/master-stack), multi-monitor, XWayland, workspaces, and a custom Scorium (`.wave`) configuration engine.
-**[Scorium](https://github.com/Fi3w0/Scorium)**: Readable on the surface, programmable when you need it. A sandboxed, embeddable, Lua-powered configuration engine for Rust. It features native typed values (colors, durations) and opt-in logic.
-**[Moonlit Shell](https://github.com/Fi3w0/Moonlit-shell)**: Handcrafted Arch + Hyprland desktop with a custom Quickshell (QML/Qt6) interface. Twelve native panels, one Catppuccin Mocha theme throughout, zero monitoring daemons.
-**[Flux](https://github.com/Fi3w0/Flux)**: Native macOS media workbench. Convert, download, edit, and compose media in one app, built on SwiftUI + AppKit over FFmpeg and yt-dlp. Fully local.
+- **[TideWM](https://github.com/Fi3w0/TideWM)**: A water-themed Wayland compositor in Rust on Smithay. Tiling (BSP/master-stack), multi-monitor, XWayland, workspaces, and a custom Scorium (`.wave`) configuration engine.
+- **[Scorium](https://github.com/Fi3w0/Scorium)**: Readable on the surface, programmable when you need it. A sandboxed, embeddable, Lua-powered configuration engine for Rust. It features native typed values (colors, durations) and opt-in logic.
+- **[Moonlit Shell](https://github.com/Fi3w0/Moonlit-shell)**: Handcrafted Arch + Hyprland desktop with a custom Quickshell (QML/Qt6) interface. Twelve native panels, one Catppuccin Mocha theme throughout, zero monitoring daemons.
+- **[Flux](https://github.com/Fi3w0/Flux)**: Native macOS media workbench. Convert, download, edit, and compose media in one app, built on SwiftUI + AppKit over FFmpeg and yt-dlp. Fully local.
 
 ### In Production / Live
-**[FIW Bosses](https://github.com/Fi3w0/Fiw-Bosses)**: JSON-driven, multi-loader (Fabric/NeoForge/Forge) boss framework with thousands of downloads on Modrinth. 50+ abilities, HP-phases, custom minions, dialogue, loot, hot reload. Used by real server admins.
-**[FIW Tools](https://github.com/Fi3w0/Fiw-Tools)**: Sibling mod to FIW Bosses. Server-side, JSON-only custom items: weapons, armor, curses, and an imbuing engine. Vanilla clients connect fine.
+- **[FIW Bosses](https://github.com/Fi3w0/Fiw-Bosses)**: JSON-driven, multi-loader (Fabric/NeoForge/Forge) boss framework with thousands of downloads on Modrinth. 50+ abilities, HP-phases, custom minions, dialogue, loot, hot reload. Used by real server admins.
+- **[FIW Tools](https://github.com/Fi3w0/Fiw-Tools)**: Sibling mod to FIW Bosses. Server-side, JSON-only custom items: weapons, armor, curses, and an imbuing engine. Vanilla clients connect fine.
 
 More at [fiwlabs.dev](https://fiwlabs.dev) and [github.com/Fi3w0?tab=repositories](https://github.com/Fi3w0?tab=repositories).
 
