@@ -33,7 +33,7 @@ I'm Fiw. I build Linux infrastructure stuff, custom desktop environments, and Mi
 <td width="50%" valign="top">
 
 ### 🌊 [TideWM](https://github.com/Fi3w0/TideWM)
-A Wayland desktop that feels like water. Real tiling WM in Rust on Smithay: ripples, waves, frosted glass, an infinite Ocean canvas, and a hot-reloaded `.wave` config.
+A Wayland compositor that feels like water. Real tiling WM in Rust on Smithay: ripples, waves, frosted glass, an infinite Ocean canvas, and a hot-reloaded `.wave` config.
 
 <a href="https://github.com/Fi3w0/TideWM"><img src="https://raw.githubusercontent.com/Fi3w0/TideWM/master/share/media/showcase-ocean.png" alt="TideWM Ocean canvas" /></a>
 
