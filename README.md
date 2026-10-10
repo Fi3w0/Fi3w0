@@ -53,6 +53,7 @@ My Gentoo restore kit: KDE style and keybinds, categorized packages, optional ap
 |---|---|---|
 | [FIW Bosses](https://github.com/Fi3w0/Fiw-Bosses) | JSON boss framework for Fabric/NeoForge/Forge: phases, 50+ abilities, minions, hot reload. Thousands of downloads on Modrinth | Java |
 | [FIW Tools](https://github.com/Fi3w0/Fiw-Tools) | Server-side JSON custom items, curses and imbuing. Vanilla clients connect fine | Kotlin |
+| [Prismarine](https://github.com/Fi3w0/Prismarine) | Deep-sea Minecraft UI for Prism Launcher: instances, mods, modpacks and live game monitoring. Requires Prism Launcher · beta | C++ · Qt 6 / QML |
 | [Scorium](https://github.com/Scorium-lang) | Config language: plain data on the surface, sandboxed logic when you need it. Spec + native [Rust](https://github.com/Scorium-lang/scorium-rs) · [Go](https://github.com/Scorium-lang/scorium-go) · [TS](https://github.com/Scorium-lang/scorium-js) · [JVM](https://github.com/Scorium-lang/scorium-jvm) implementations | Rust · Go · TS · Java |
 | [FiwNode](https://github.com/Fi3w0/FiwNode) | PipeWire soundboard: your mic + sound effects in one virtual microphone | Rust · Qt 6 |
 | [Nereus](https://github.com/Fi3w0/Nereus) | Final DevOps project: k3s, CI/CD, blue-green deploys that roll themselves back, observability | Go · k3s |
